@@ -1,0 +1,87 @@
+<div class="video">
+
+    <video autoplay loop muted plays-inline >
+     <source src="video/video.mp4"  type="video/mp4" />
+    </video>
+
+</div>
+
+
+
+
+id="st" onclick="sst()"
+
+<i class="fa-solid fa-right-to-bracket fa-1x"></i> 
+
+
+<div class="point">
+    <h3 class="first">HOME</h3>
+    <h3 class="secend">|</h3>
+    <h3 class="therd">
+
+      <p>Phone</p><span>Our Hotline Number is 01752203029</span>
+
+
+    </h3>
+    <h3 class="forth">|</h3>
+    <h3 class="fifth">EMAIL</h3>
+    <h3 class="sixth">|</h3>
+    <h3 class="seventh">CONTUCT</h3>
+
+  <h3 id="st" onclick="sst()" class="login">LOG IN<i class="fa-solid fa-right-to-bracket fa-1x"></i> </h3>
+</div>
+
+.wrapper .section .topnavigation{
+    background-color: rgb(7,105,185);
+    height: 100px;
+    display: flex;
+    align-items: center;
+    padding: 0 50px;
+} 
+.wrapper .section .topnavigation .humberger a{
+     font-size: 28px;
+     color: #f4fbff;
+}
+.wrapper .section .topnavigation .humberger a:hover{
+    color: #a3ecff;
+
+
+   .row div div{
+    background-color: tomato;
+    border: 5px solid black;
+    border-radius: 5px;
+    text-align: center;
+    padding: 20px;
+    margin-top: 0px;
+}
+
+<div class="container">
+  <div class="row row-cols-3">
+    <div class="col col-lg-2">
+      <div>Pyramid</div>
+    </div>
+    <div class="col col-lg-2">
+      <div>Pyramid</div>
+    </div>
+    <div class="col col-lg-2">
+      <div>Pyramid</div>
+    </div>
+    <div class="col col-lg-2">
+      <div>Pyramid</div>
+    </div>
+    <div class="col col-lg-2">
+      <div>Pyramid</div>
+    </div>
+    <div class="col col-lg-2">
+      <div>Pyramid</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col col-lg-2">
+      <div>
+        Pyramid
+      </div>
+    </div>
+  </div>
+</div>
+

@@ -1,0 +1,147 @@
+.body{
+	margin:0px;
+	padding:0px;
+	background:white;
+}
+.sing-up-page{
+	background:white;
+	width:400px;
+	box-shadow:0 0 3px 0 rgb(0,0,0,0.3);
+	padding:20px;
+	margin:8% auto 0;
+	text-align:center;
+
+}
+.sing-up-page input{
+	border-radius:5px;
+	border:2px solid  #e4dcdc;
+	width:90%;
+	padding:15px;
+	outline:none;
+}
+.sing-up-page h1{
+	color:#1c8adb;
+	margin-top:-33px;
+	background:white;
+	width:120px;
+	margin-left:144px;
+	text-align:center;
+}
+.button{
+	width:100%;
+	background:#1c8adb;
+	padding:10px;
+	outline:none;
+	border:2px solid #e4dcdc;
+	border-radius:5px;
+	cursor:pointer;
+	transition: 1s;
+}
+.button:hover{
+	background-color:#064e84;
+	transition: 1s;
+}
+.chekbox{
+	margin-left:-275px;
+}
+.remember{
+	margin-top:-36px;
+	margin-right:-22px;
+}
+.or{
+	margin:-18px auto -1px;
+	background:white;
+	width:55px;
+	color:#928686;
+}
+.icons{
+	margin-bottom:60px;
+	color:#1c8adb;
+}
+.iconss{
+	margin-right:170px;
+	margin-bottom:-36px;
+	color:#f65f5f;
+}
+.div1 a:hover{
+	color:purple;
+}
+.div1 a{
+	text-decoration:none;
+}
+.div2{
+	text-decoration:none;
+}
+.div2:hover{
+	color:purple;
+}
+.hrr{
+	color:#928686;
+}
+.css1{
+	background:#da8a8a;
+	color:white;
+	box-shadow:0 0 3px 0 rgb(0,0,0,0.3);
+	width:400px;
+	padding:20px;
+	margin:8% auto 0px;
+	text-align:center;
+}
+.css1 input{
+	width:85%;
+	padding:15px;
+	outline:none;
+	border:2px solid #9e8585;
+	border-radius:5px;
+}
+.js{
+	margin-right:250px;
+	margin-top:20px;
+}
+.width{
+	margin-right:82px;
+	margin-top:-28px;
+}	
+.login-btn{
+	width:93%;
+	background:#00f1fc;
+	color:#ffffff;
+	padding:18px;
+	border:2px solid #00ffff;
+	border-radius:5px;
+	outline:none;
+	box-shadow:2px 2px 2px black;
+	font-weight:bold;
+	padding:15px;
+}
+.hrrr{
+	margin-bottom:30px;
+}
+.oor{
+	margin-top:0px;
+	background:#da8a8a;
+	width:80px;
+	margin-left:158px;
+	margin-top:-47px;
+	font-size:28px;
+	margin-bottom:50px
+}
+.rrr{
+	font-size:20px;
+	margin-bottom:25px;
+}
+.sss{
+	margin-right:-44px;
+	margin-top:-72px;
+}
+.css1 p{
+	font-size:45px;
+} 
+.icn{
+	margin-left:-2px;
+	margin-top:7px;
+	margin-bottom:-16px;
+}
+.iconsssss{
+	font-size:5px;
+}
